@@ -36599,7 +36599,7 @@ Kr(a){var s,r=this,q=null
 r.a.toString
 s=r.gOf()
 r.a.toString
-return new A.rI(q,q,q,new A.VV(),q,q,q,q,q,B.Fk,B.Bp,q,q,q,B.zA,r.gOm(),"Realidad",q,B.Hd,B.cA,q,s,q,q,B.j8,!1,!1,!1,!1,r.gO3(),!1,q,q,q,new A.jB(r,t.By))},
+return new A.rI(q,q,q,new A.VV(),q,q,q,q,q,B.Fk,B.Bp,q,q,q,B.zA,r.gOm(),"Realidad Pura",q,B.Hd,B.cA,q,s,q,q,B.j8,!1,!1,!1,!1,r.gO3(),!1,q,q,q,new A.jB(r,t.By))},
 P(a){var s,r=null,q=A.xa(!1,!1,this.Kr(a),r,r,r,r,!0,r,r,r,new A.VW(),r,r)
 this.a.toString
 s=this.d
